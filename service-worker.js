@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/turing/precache-manifest.b90c48a8094f0613ff08c271db79c8af.js"
+  "/turing/precache-manifest.96c2837a3aa32a648dfde58ac463f188.js"
 );
 
 self.addEventListener('message', (event) => {
